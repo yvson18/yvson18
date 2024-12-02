@@ -1,6 +1,6 @@
-### Hi, I'm Yvson Nunes and I am a Computer Engineering Student.🤘
+### Hi, I'm Yvson Nunes and I am a Computer Engineer.🤘
 
-I started this tecnology journey with the desire to become the Real Life Iron Man, well the things didn't worked as expected (haha), but I didn't give up yet. I love Machine learning and how we can use algorithms to mimic the human intelligence and make computers learn how to peform tasks as humans or better than us (of course given enough data haha!). I also love, as an almost Computer Engineer, eletronics, like develop circuits to create guitar effects 🎸, for instance.  I'm currently working as intern researcher in the field of artificial intelligence, specifically, in the task of music information retrieval at [Moises.ai](https://moises.ai/), wich is beign a ecstatic experience.    
+I started this journey into the world of technology with the desire to become the next Tony Stark, haha. Well, things didn't go as planned, but I haven't given up yet. I am interested in research in the area of machine learning, specifically deep learning in audio applications, particularly music information retrieval, as well as computer vision. Additionally, I also enjoy software development, specifically backend. I am also interested in embedded systems and the Internet of Things.   
 
 🚀 Skills
 
